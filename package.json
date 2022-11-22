@@ -8,7 +8,7 @@
     "prop-types": "^15.5.8",
     "react": "^15.6.1",
     "react-dom": "^15.6.1",
-    "react-scripts": "1.0.14",
+    "react-scripts": "5.0.1",
     "react-swipeable-views": "^0.12.10",
     "react-transition-group": "^1.2.1",
     "sort-by": "^1.2.0"
